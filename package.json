@@ -4,7 +4,7 @@
   "description": "A test repo for node support",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"testing node!\" && exit 0"
+    "test": "echo \"testing node in a second branch!\" && exit 0"
   },
   "repository": {
     "type": "git",
